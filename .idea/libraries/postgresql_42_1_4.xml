@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="postgresql-42.1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/BackUp2018/uvg/2018/postgresql-42.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/opencsv-4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
